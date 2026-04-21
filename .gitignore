@@ -88,3 +88,6 @@ prisma/migrations/
 !prisma/migrations/.gitkeep
 
 *.sh
+.dockerignore
+Dockerfile
+docker-compose.yml
